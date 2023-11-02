@@ -512,3 +512,10 @@
     .burger {
         display: none;
     }
+
+    .footer h3 {
+        text-align: center;
+        color: green;
+        font-size: 25px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
